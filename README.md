@@ -11,7 +11,7 @@ This project implements the Holy Grail layout using HTML and CSS. The Holy Grail
 
 ## Demo
 
-You can view a live demo of this Holy Grail layout [here](https://your-demo-link.com).
+You can view a live demo of this Holy Grail layout [here](https://nehalali110.github.io/holygrailslayout/).
 
 
 ## Acknowledgments
